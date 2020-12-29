@@ -5,10 +5,13 @@ channels:
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=1_gnu
+  - attrs=20.3.0=pyhd3deb0d_0
   - ca-certificates=2020.12.5=ha878542_0
   - certifi=2020.12.5=py39hf3d152e_0
   - click=7.1.2=pyh9f0ad1d_0
+  - coverage=5.3.1=py39h3811e60_0
   - flask=1.1.2=pyh9f0ad1d_0
+  - iniconfig=1.1.1=pyh9f0ad1d_0
   - itsdangerous=1.1.0=py_0
   - jinja2=2.11.2=pyh9f0ad1d_0
   - ld_impl_linux-64=2.35.1=hea4e1c9_1
@@ -17,15 +20,22 @@ dependencies:
   - libgomp=9.3.0=h5dbcf3e_17
   - libstdcxx-ng=9.3.0=h2ae2ef3_17
   - markupsafe=1.1.1=py39h38d8fee_2
+  - more-itertools=8.6.0=pyhd8ed1ab_0
   - ncurses=6.2=h58526e2_4
   - openssl=1.1.1i=h7f98852_0
+  - packaging=20.8=pyhd3deb0d_0
   - pip=20.3.3=pyhd8ed1ab_0
+  - pluggy=0.13.1=py39h079e4ff_3
+  - py=1.10.0=pyhd3deb0d_0
+  - pyparsing=2.4.7=pyh9f0ad1d_0
+  - pytest=6.2.1=py39hf3d152e_0
   - python=3.9.1=hffdb5ce_2_cpython
   - python_abi=3.9=1_cp39
   - readline=8.0=he28a2e2_2
   - setuptools=49.6.0=py39h079e4ff_2
   - sqlite=3.34.0=h74cdb3f_0
   - tk=8.6.10=h21135ba_1
+  - toml=0.10.2=pyhd8ed1ab_0
   - tzdata=2020e=he74cb21_0
   - werkzeug=1.0.1=pyh9f0ad1d_0
   - wheel=0.36.2=pyhd3deb0d_0
